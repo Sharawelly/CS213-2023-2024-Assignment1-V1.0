@@ -6,8 +6,8 @@
 #include <cstring>
 #include "bmplib.cpp"
 #include <cmath>
-
-
+#include <vector>
+// Marwan Shreif 
 // Program: CS213 - 20220325 - 20220198 - 20221091
 // Purpose: Demonstrate use of bmplip for handling
 //          bmp colored and grayscale images
